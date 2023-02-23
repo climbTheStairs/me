@@ -2,10 +2,7 @@ Hellen Keller
 Edward Snowden
 J. R. R. Tolkien
 Richard Stallman
-Ted Kaczynski
-C. S. Lewis
 Ken Thompson
 Dennis Ritchie
 Brian Kernighan
 Rob Pike
-Edsger Dijkstra
