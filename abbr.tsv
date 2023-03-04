@@ -8,6 +8,7 @@ aud	audio
 avg	average
 b	byte
 bak	backup
+bc	because
 bg	background
 bib	bibliography
 bin	binary
@@ -41,6 +42,7 @@ env	environment
 err	error
 exe	executable
 exe	execute
+exp	experience
 f	file
 fic	fiction
 fn	function
@@ -65,6 +67,7 @@ mus	music
 mv	move
 n	new
 n	number
+nat	natural
 num	number
 o	object
 o	old
@@ -93,6 +96,7 @@ res	response
 res	result
 rm	remove
 s	string
+sci	science
 scr	scrap
 sec	security
 seq	sequence
@@ -103,6 +107,7 @@ src	source
 srv	server
 std	standard
 str	string
+succ	success
 t	table
 t	time
 tech	technology
@@ -112,7 +117,10 @@ u	user
 v	value
 var	variable
 vid	video
+w	with
 w	write
+wi	within
+wo	without
 x	x-axis, horizontal
 y	y-axis, vertical
 z	miscellaneous
