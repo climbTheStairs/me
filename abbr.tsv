@@ -67,6 +67,7 @@ mus	music
 mv	move
 n	new
 n	number
+nat	nation
 nat	natural
 num	number
 o	object
@@ -76,6 +77,8 @@ opt	optimize
 opt	optional
 p	print
 p	process
+pc	computer
+ph	phone
 pol	politics
 pos	position
 ppl	people
